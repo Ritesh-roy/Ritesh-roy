@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 About Me<br><br>🚀 Full Stack Developer (MERN) & Digital Marketer<br>I’m a passionate Full Stack Web Developer with hands-on experience in building scalable, high-performance, and SEO-optimized websites. I love transforming ideas into real-world digital solutions that deliver measurable business growth.<br><br>💻 I specialize in modern JavaScript technologies, clean UI/UX, and performance-driven development. Alongside development, I leverage digital marketing strategies to ensure products not only look great but also rank, convert, and scale globally.<br><br>🌍 Actively preparing for USA-based opportunities, focusing on industry-standard practices, system design, and real-world projects.<br><br>🔭 I’m currently working on<br><br>Full Stack MERN projects (React, Next.js, Node.js, MongoDB)<br><br>SEO-optimized business & e-commerce websites<br><br>Performance improvement & clean architecture<br><br>👯 I’m looking to collaborate on<br><br>Real-world web applications<br><br>SaaS & startup projects<br><br>Open-source JavaScript / React projects<br><br>🤝 I’m looking for help with<br><br>Advanced system design<br><br>Scalable backend architecture<br><br>USA tech interview preparation<br><br>🌱 I’m currently learning<br><br>Advanced Next.js & server-side rendering<br><br>API optimization & security<br><br>AI tools for development & marketing<br><br>💬 Ask me about<br><br>HTML, CSS, JavaScript<br><br>React, Next.js, Node.js, MongoDB<br><br>SEO, website performance & digital growth<br><br>⚡ Fun fact<br><br>I enjoy building websites that load fast, rank higher on Google, and actually generate revenue 🚀
 
-<!--
-**Ritesh-roy/Ritesh-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ritesh_roy_44?igsh=MnNhd3BuenU3OXVm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritesh-roy-b0b4a3319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshroyy44@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ritesh-roy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ritesh-roy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-roy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ritesh-roy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
